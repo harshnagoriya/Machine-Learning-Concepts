@@ -10,7 +10,7 @@ Supervised learning provides us with a powerful tool to classify and process dat
 
 In this regression task I predicted the percentage of marks that a student is expected to score based upon the number of hours they studied. This is a simple linear regression task as it involves just two variables.
 
-`Notebook File of Supervised Learning <https://github.com/harshnagoriya/Machine-Learning-Concepts/blob/master/output/Supervised_Machine_Learning.ipynb>`_!
+`Notebook File of Supervised Learning <https://github.com/harshnagoriya/Machine-Learning-Concepts/blob/master/basics/Supervised_Machine_Learning.ipynb>`_!
 
 Unsupervised Learning
 =======================
@@ -28,7 +28,7 @@ Decision Tree algorithm belongs to the family of supervised learning algorithms.
 
 For the given ‘Iris’ dataset, I created the Decision Tree classifier and visualized it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
-`Notebook File of Decision Tree Learning <https://github.com/harshnagoriya/Machine-Learning-Concepts/blob/master/output/Decision_Tree_Algorithm.ipynb>`_!
+`Notebook File of Decision Tree Learning <https://github.com/harshnagoriya/Machine-Learning-Concepts/blob/master/basics/Decision_Tree_Algorithm.ipynb>`_!
 
 
 Exploratory Data Analysis
@@ -36,9 +36,9 @@ Exploratory Data Analysis
 
 Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns, to spot anomalies, to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
 
-I have performed Exploratory Data Analysis on the `uploaded dataset SampleSuperstore <https://github.com/harshnagoriya/Machine-Learning-Concepts/blob/master/output/SampleSuperstore.csv>`_, assuming I am a business owner of the retail firm and want to see how my company is performing. I am interested in finding out the weak areas where I can work to make more profit.
+I have performed Exploratory Data Analysis on the `uploaded dataset SampleSuperstore <https://github.com/harshnagoriya/Machine-Learning-Concepts/blob/master/basics/SampleSuperstore.csv>`_, assuming I am a business owner of the retail firm and want to see how my company is performing. I am interested in finding out the weak areas where I can work to make more profit.
 
-`Notebook File of Exploratory Data Analysis <https://github.com/harshnagoriya/Machine-Learning-Concepts/blob/master/output/Exploratory_Data_Analysis.ipynb>`_!
+`Notebook File of Exploratory Data Analysis <https://github.com/harshnagoriya/Machine-Learning-Concepts/blob/master/basics/Exploratory_Data_Analysis.ipynb>`_!
 
 
 
